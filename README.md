@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm semi-new here after my coding revitalization, but don't be fooled. This account will be full of Repos soon!;)
 
 <!--
 **randy-04/randy-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
